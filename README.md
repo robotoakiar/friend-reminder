@@ -28,7 +28,7 @@ SKIP_MEDIA=1 curl -sL https://raw.githubusercontent.com/robotoakiar/friend-remin
 ### แบบ Short URL (สำหรับแชร์เพื่อน) 📲
 ```bash
 # จะอัพเดทเมื่อมี bit.ly link
-curl -sL bit.ly/remind-friend-2024 | bash
+curl -sL bit.ly/KMITL42 | bash
 ```
 
 ## 🎯 คุณสมบัติ
